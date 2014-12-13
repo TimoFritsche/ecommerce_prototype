@@ -1,4 +1,4 @@
-ecommerce_prototype-
+ecommerce_prototype
 ====================
 
-A prototype based on the tutorial of Justin Mitchell (codingforentrepreneurs.com)
+A prototype based on the tutorial of Justin Mitchell (codingforentrepreneurs.com).
